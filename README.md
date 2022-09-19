@@ -61,3 +61,7 @@ Technologies Used:
 3) Room-Database
 4) Coroutines
 5) Firebase authentication
+
+Project Report:
+[SPSGP-105698-Virtual Internship - Android Application Development Using Kotlin Report.pdf](https://github.com/smartinternz02/SPSGP-105698-Virtual-Internship---Android-Application-Development-Using-Kotlin/files/9600726/SPSGP-105698-Virtual.Internship.-.Android.Application.Development.Using.Kotlin.Report.pdf)
+
